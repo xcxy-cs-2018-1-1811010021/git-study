@@ -2,5 +2,5 @@
 
 int main()
 {
-std::cout<<"hello world!sheng pengyu !"<<endl;
+std::cout<<"hello world!sheng pengyu !"<<std::endl;
 }
